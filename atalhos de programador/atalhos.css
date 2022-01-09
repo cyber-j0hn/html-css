@@ -1,0 +1,22 @@
+header {
+    background-color: aqua;
+    padding: 20px 0;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+ul h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+ul p {
+
+    font-size: 20px;
+    padding: 10px 10px;
+    font-style: italic;
+}

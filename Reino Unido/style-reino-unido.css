@@ -1,0 +1,42 @@
+
+#bandeira-do-reino-unido {
+    width: 1500px;
+    height: 500px;
+    
+}
+
+.gra-bretanha {
+    font-size: 20px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    
+}
+
+.ilhaBretanha {
+    width: 40%;
+    vertical-align: top;
+}
+
+.ilhaBretanha2 {
+    width: 30%;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.reino-unido {
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.geo-reino {
+   width: 900px;
+   height: 400px;
+}
